@@ -1,2 +1,3 @@
 cpp/secure/build/*
 cpp/nonsecure/build/*
+*/__pycache__/*
